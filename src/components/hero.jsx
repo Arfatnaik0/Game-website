@@ -1,4 +1,3 @@
-import '../index.css'
 import { useState,useRef, useEffect } from 'react';
 import Button from './button';
 import { TiLocationArrow } from 'react-icons/ti';
@@ -126,11 +125,12 @@ const getVideoSrc=(index)=>`videos/hero-${index}.mp4`
                   className='absolute left-0 top-0 size-full object-cover object-center'
                   onLoadedData={handleVideoLoad}
                   />
+              </div>
             
             <h1 className='special-font hero-heading absolute bottom-5
             right-5 z-40 text-blue-75'>Gaming</h1>
             <div className='absolute left-5 top-0 z-40 size-full'>
-              <div className='mt-24 px-5 sm:px-10'></div>
+              <div className='mt-24 px-5 sm:px-10'>
               <h1 className='special-font hero-heading text-blue-100'>redifine</h1>
               <p className='mb-5 max-w-64 font-robert-regular text-blue-100 '>
                 Enter the MetaGame Layer <br /> Unleash the play Economy
