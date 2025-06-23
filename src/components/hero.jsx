@@ -119,7 +119,7 @@ const getVideoSrc=(index)=>`videos/hero-${index}.mp4`
 
                   <video
                   src={getVideoSrc(currentIndex === totalVideos-1 ? 1:currentIndex)}
-                  autoPlay
+                  // autoPlay
                   loop
                   muted
                   className='absolute left-0 top-0 size-full object-cover object-center'
@@ -131,7 +131,7 @@ const getVideoSrc=(index)=>`videos/hero-${index}.mp4`
             right-5 z-40 text-blue-75'>Gaming</h1>
             <div className='absolute left-5 top-0 z-40 size-full'>
               <div className='mt-24 px-5 sm:px-10'>
-              <h1 className='special-font hero-heading text-blue-100'>redifine</h1>
+              <h1 className='special-font hero-heading text-blue-100'>redefine</h1>
               <p className='mb-5 max-w-64 font-robert-regular text-blue-100 '>
                 Enter the MetaGame Layer <br /> Unleash the play Economy
               </p>
