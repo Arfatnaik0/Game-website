@@ -1,12 +1,33 @@
-# React + Vite
+# React.js/Tailwind CSS/GSAP Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an Web development project made with react.js,Tailwind CSS and GSAP with inspiration from https://zentry.com/
+This project uses smooth animations from GSAP and is styled with Tailwind CSS for efficient and fast styling.
 
-Currently, two official plugins are available:
+# Live link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Installation
+To install this project on your pc 
+  ==>Clone the Repo on your machine
+    Install the dependencies using
+      ==> npm install
+      Run the Project using
+        ==> npm run dev
+
+
+# Features
+
+ Scroll-Based Animations: Dynamic animations triggered by scrolling for a more engaging user experience.
+
+ Clip Path Shaped Animations: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+
+ 3D Hover Effects: Interactive 3D transformations that respond to user interactions for a modern feel.
+
+ Video Transitions: Seamlessly integrated video elements to enhance storytelling and flow.
+
+ Smooth UI/UX: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+
+ Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
+
+and many more, including code architecture and reusability
