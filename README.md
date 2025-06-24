@@ -4,7 +4,7 @@ This is an Web development project made with react.js,Tailwind CSS and GSAP with
 This project uses smooth animations from GSAP and is styled with Tailwind CSS for efficient and fast styling.
 
 # Live link
-
+https://game-website-zentry.vercel.app/
 
 
 # Installation
