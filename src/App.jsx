@@ -2,6 +2,7 @@ import './index.css'
 import Hero from './components/hero'
 import About from './components/about'
 import Navbar from './components/Navbar'
+import Features from './components/features'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <About/>
+      <Features/>
     </main>
     </>
   )
