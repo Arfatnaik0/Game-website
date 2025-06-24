@@ -72,7 +72,7 @@ useEffect(()=>{
                 <div className="flex h-full items-center">
                     <div className="hidden md:block">
                         {navItems.map((item)=>(
-                            <a key={item} href={`#${item.toLowerCase()}`} className="nav-hover-btn">
+                            <a key={item} href={`#${item.toLowerCase()}`} className="nav-hover-btn text-[1rem]">
                                 {item}
                             </a>
                         ))}
