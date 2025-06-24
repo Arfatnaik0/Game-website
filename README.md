@@ -1,10 +1,10 @@
 # React.js/Tailwind CSS/GSAP Project
 
-This is an Web development project made with react.js,Tailwind CSS and GSAP with inspiration from https://zentry.com/
+This is a Web development project made with React.js, Tailwind CSS, and GSAP with inspiration from https://zentry.com/
 This project uses smooth animations from GSAP and is styled with Tailwind CSS for efficient and fast styling.
 
 # Live link
-https://game-website-zentry.vercel.app/
+https://game-website-zentry-arfatnaik.vercel.app/
 
 
 # Installation
