@@ -31,3 +31,6 @@ To install this project on your pc
  Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
 
 and many more, including code architecture and reusability
+
+
+### Initial load may take some time*
