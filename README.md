@@ -1,36 +1,53 @@
-# React.js/Tailwind CSS/GSAP Project
+# Game Website
 
-This is a Web development project made with React.js, Tailwind CSS, and GSAP with inspiration from https://zentry.com/
-This project uses smooth animations from GSAP and is styled with Tailwind CSS for efficient and fast styling.
+A modern, animated gaming website built with React and GSAP animations.
 
-# Live link
-https://game-website-zentry-arfatnaik.vercel.app/
+## Features
 
+- **Smooth Animations**: Powered by GSAP for fluid transitions and interactions
+- **Responsive Design**: Built with Tailwind CSS for all screen sizes
+- **Modern UI**: Clean and engaging interface with custom components
+- **Optimized Performance**: Fast loading with Vite build tool
 
-# Installation
-To install this project on your pc 
-  ==>Clone the Repo on your machine
-    Install the dependencies using
-      ==> npm install
-      Run the Project using
-        ==> npm run dev
+## Tech Stack
 
+- **React 19** - UI library
+- **GSAP** - Animation library
+- **Tailwind CSS** - Styling framework
+- **Vite** - Build tool and dev server
+- **React Icons** - Icon library
 
-# Features
+## Getting Started
 
- Scroll-Based Animations: Dynamic animations triggered by scrolling for a more engaging user experience.
+### Installation
 
- Clip Path Shaped Animations: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+```bash
+npm install
+```
 
- 3D Hover Effects: Interactive 3D transformations that respond to user interactions for a modern feel.
+### Development
 
- Video Transitions: Seamlessly integrated video elements to enhance storytelling and flow.
+```bash
+npm run dev
+```
 
- Smooth UI/UX: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+### Build
 
- Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
+```bash
+npm run build
+```
 
-and many more, including code architecture and reusability
+### Preview
 
+```bash
+npm run preview
+```
 
-### Initial load may take some time*
+## Project Structure
+
+- `src/components/` - Reusable React components (Navbar, Hero, About, Features, Footer)
+- `public/` - Static assets (images, audio, fonts, videos)
+
+---
+
+*Note: Initial load may take some time*
